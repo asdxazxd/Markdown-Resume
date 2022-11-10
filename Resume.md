@@ -1,39 +1,33 @@
  <center>
-     <h1>XXX</h1>
+     <h1>王子健</h1>
      <div>
          <span>
              <img src="assets/phone-solid.svg" width="18px">
-             180XXXXXXXX
+             173XXXX4343
          </span>
          ·
          <span>
              <img src="assets/envelope-solid.svg" width="18px">
-             zhengyc101@163.com
+             2438388173@qq.com
          </span>
          ·
          <span>
              <img src="assets/github-brands.svg" width="18px">
-             <a href="https://github.com/CyC2018">CyC2018</a>
-         </span>
-         ·
-         <span>
-             <img src="assets/rss-solid.svg" width="18px">
-             <a href="#">My Blog</a>
+             <a href="https://github.com/CyC2018">asdxazxd</a>
          </span>
      </div>
  </center>
 
  ## <img src="assets/info-circle-solid.svg" width="30px"> 个人信息 
 
- - 男，1994 年出生
+ - 男，2001 年出生
  - 求职意向：Java 研发工程师
  - 工作经验：0 年（校招可不填）
  - 期望薪资：0k（校招可不填）
 
 ## <img src="assets/graduation-cap-solid.svg" width="30px"> 教育经历
 
-- 硕士，XXXX大学，计算机科学与技术专业，2016.9~2019.7
-- 学士，XXXX大学，软件工程专业，2012.9~2016.7
+- 学士，华北水利水电大学，软件工程专业，2019.9~2023.7
 - 绩点：***，年级前 100%
 - 通过了 CET4/6 英语等级考试
 
